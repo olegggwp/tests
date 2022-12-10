@@ -16,6 +16,7 @@ int8_t a[M][K];
 int16_t b[K][N];
 int32_t c[M][N];
 
+
 void mmul()
 {
   int8_t *pa = a;
